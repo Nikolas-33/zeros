@@ -8,4 +8,6 @@ Hay varios comandos:
 - edi
 - Entre otros.
 
+Windows puede mostrar una advertencia de SmartScreen porque ZerOS es una aplicación nueva y no firmada.
+
 Feliz jueves.
