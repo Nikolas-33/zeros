@@ -22,4 +22,17 @@ Posiblemente la actualize cada que pueda.
 - Ahora usa el editor TTT (ya incluido). Si quieres descargarlo normal, https://github.com/eugenioenko/ttt/. También es muy bueno.
 - Si no sabes que hay que hacer, escribe "ayuda".
 
+# Licencias y proyectos utilizados
+
+- Python — Python Software Foundation License 2.0
+  https://www.python.org/
+
+- TTT — MIT License
+  https://github.com/eugenioenko/ttt/
+
+- Todas las licencias necesarias en los .zip.
+
+# Publicidad que quise hacer
+- Descarga Fal, de NissanBoss es muy buen lenguaje y es bastante simple: https://github.com/NissanBoss/Fal/. Lo recomiendo mucho.
+
 Feliz jueves 30 de febrero del 2021.
