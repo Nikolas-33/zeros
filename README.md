@@ -1,4 +1,7 @@
+# zeros no tendrá más actualizaciones
+
 # zeros
+Ya no tendrá más actualizaciones: https://github.com/Nikolas-33/neon
 Una terminal para windows hecha en C# y python. Con el editor TTT incluido.
 No necesitas instalar nada para la versión más nueva.
 
@@ -10,8 +13,7 @@ Hay varios comandos:
 - Entre otros.
 
 # estado
-Esta terminal, sigue en desarrollo.
-Posiblemente la actualize cada que pueda.
+Esta terminal, será reemplazada por https://github.com/Nikolas-33/neon. Pero e¡la repo se quedará como "museo".
 
 # cosas importantes a tener en cuenta:
 - Windows puede mostrar una advertencia de SmartScreen porque ZerOS es una aplicación nueva y no firmada.
